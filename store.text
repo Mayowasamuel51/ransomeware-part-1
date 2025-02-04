@@ -1,0 +1,3 @@
+first command that was run    before break   ===    pip install pyinstaller
+
+pyinstaller --onefile --noconsole hackingwebserver.py
